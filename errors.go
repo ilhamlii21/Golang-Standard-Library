@@ -6,7 +6,7 @@ import (
 )
 
 var (
-	ValidationError = errors.New("Validatippn error")
+	ValidationError = errors.New("Validation error")
 	NotFoundError   = errors.New("Not found error")
 )
 
@@ -25,7 +25,7 @@ func GetById(id string) error {
 }
 
 func main() {
-	err := GetById("Hai")
+	err := GetById("1")
 	if err != nil {
 		if errors.Is(err, ValidationError) {
 			fmt.Println("Validation error")
