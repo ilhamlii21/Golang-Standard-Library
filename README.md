@@ -1,6 +1,6 @@
 # Golang Exercise Repository
 
- **Golang-Exercise-Standard-Libary**! 🎯  
+ **Golang-Exercise-Standard-Library**! 🎯  
 Malam guys
 Gatau kenapa jadi pengen belajar golang alias bahasa yang var gaboleh nganggur nanti dimarahin. Repo ini emang buat gabut aja commit-commit iseng daripada main rosblok terus. Buat yang punya krisar(Kritik dan saran) bisa langsung coment, siap belajar sampe cv ada line 3year++ golang experience
 
