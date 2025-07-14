@@ -1,0 +1,7 @@
+materi yang akan dibahas selanjutnya :
+
+1. GoLang Modules
+2. Golang Unittest
+3. Golang Goroutine
+4. Golang Database
+5. Golang Web
